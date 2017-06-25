@@ -23,7 +23,7 @@ import kr.or.connect.todo.persistence.TodoDao;
 @Transactional
 public class TodoDaoTest {
 //TodoDao 동작 테스트용 Test Class
-	
+	//테스트요 테스트
 	//로그를 통한 값 확인
 	private final Logger log = LoggerFactory.getLogger(TodoDaoTest.class);
 	@Autowired
